@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.Forms.AllData.resources
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.Forms.CreditForm.resources
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.MainForm.resources
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\Bank_databasefirst.exe.config
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\Bank_databasefirst.exe
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\Bank_databasefirst.pdb
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.exe
+C:\Users\ASUS\source\repos\Bank_databasefirst\Bank_databasefirst\obj\Debug\Bank_databasefirst.pdb
